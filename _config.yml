@@ -71,6 +71,6 @@ kramdown:
   show_warnings     : false
   
 # Build options
-  theme             : tactile
+  theme             : minimal
   
   
