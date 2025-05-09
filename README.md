@@ -1,6 +1,6 @@
 ### Crystal here 💾💽📼🏳️‍🌈🏳️‍⚧️
 
-Find me at [crystalsweb.neocities.org/]{https://crystalsweb.neocities.org/}
+Find me at ![crystalsweb.neocities.org](https://crystalsweb.neocities.org)
 
 ![Test Image 1](packing1.webp)
 
